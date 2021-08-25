@@ -3,6 +3,6 @@ I made this linear voltage regulator using an **L317T** IC, whose output voltage
 
 ## PCB IN EAGLE:
 
-![](linear_voltage_reg.png) 
+![](https://github.com/khanghuu1023/DC_Voltage_Regulator/blob/main/PCB_EAGLE.png) 
 
 
