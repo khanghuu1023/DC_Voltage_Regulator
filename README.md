@@ -9,4 +9,4 @@ I made this linear voltage regulator using an **L317T** IC, whose output voltage
 
 The board is being manufactured by jclpcb and will be here in a few days. I will post images of the completly soldered board later on
 Quick update: The boards finally arrived!! 
-![](https://github.com/khanghuu1023/DC_Voltage_Regulator/blob/main/PCBs_arrived.png)
+![](https://github.com/khanghuu1023/DC_Voltage_Regulator/blob/main/PCBs_arrived.jpg)
